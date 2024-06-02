@@ -26,7 +26,7 @@
 
 
 
-#O que eu já sei sobre os assuntos que serão abordados nesse módulo?
+# O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
 ° Tipos básicos do typescript
 
