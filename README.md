@@ -1,5 +1,5 @@
 
-**Conteúdos a serem trabalhados nesse módulo:**
+# Conteúdos a serem trabalhados nesse módulo:
 
 ° Tipagens do typescript 
 
@@ -25,7 +25,6 @@
 
 
 
-
 # O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
 ° Tipos básicos do typescript
@@ -42,7 +41,7 @@
 
 
 
-*O que quero aprender sobre os assuntos que serão abordados nesse módulo?*
+# O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
 ° Quero aprender a gerenciar melhor meu tempo para não procrastinar.
 
@@ -54,7 +53,7 @@
 
 
 
-Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
+# Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
 ° Aprendi como funciona o LinkedIn e uso de palavras chave para um currículo
 
