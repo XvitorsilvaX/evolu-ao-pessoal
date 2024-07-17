@@ -68,7 +68,7 @@
 
 ° Aprendi a realizar alguns testes com jest e a debugar melhor meu codigo
 
-° Aprendi a exportar e importar funçoes, ate o presente usando melhor ES modules
+° Aprendi a exportar e importar funçoes, ate o presente momento usando melhor ES modules
 
 ° Aprendi alguns comandos git para uma metodologia mais agil
 
