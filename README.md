@@ -51,9 +51,26 @@
 
 ° Quero saber melhor o que são funções no typescript e javascript.
 
+° Montar um servidor
+
+° Estilizar meu codigo
+
 
 
 # Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
+° Aprendi o que é uma API e seus conceitos basicos
+
+° Aprendi a pesquisar em bibliotecas e testar novas funçoes
+
+° Aprendi a personalisar melhor o github
+
+° Aprofundei melhor conhecimentos sobre array
+
+° Aprendi a realizar alguns testes com jest e a debugar melhor meu codigo
+
+° Aprendi a exportar e importar funçoes, ate o presente usando melhor ES modules
+
+° Aprendi alguns comandos git para uma metodologia mais agil
 
 ° Aprendi como funciona o LinkedIn e uso de palavras chave para um currículo
 
